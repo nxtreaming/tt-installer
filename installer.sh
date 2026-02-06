@@ -820,7 +820,7 @@ main() {
     # Introduction animation
     echo ""
     echo ""
-    print_with_delay "trusttunnel-installer by DEATHLINE | @NamelesGhoul" 0.05
+    print_with_delay "trusttunnel-installer by DEATHLINE | @NamelesGhoul" 0.1
     echo ""
     echo ""
     
